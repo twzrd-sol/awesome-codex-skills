@@ -140,6 +140,7 @@ Codex skills are modular instruction bundles that tell Codex how to execute a ta
 - [helium-mcp/](./helium-mcp/) - Search real-time news with bias scoring, get live market data, ML options pricing, and balanced news synthesis via MCP.
 
 ### Meta & Utilities
+- [twzrd-agent-intel](https://intel.twzrd.xyz) - Trust-score Solana agent wallets before x402 micropayments. Free MCP: `score_agent(wallet)`, `preflight_check(wallet)`. Paid: `get_trust_receipt(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 - [brand-guidelines/](./brand-guidelines/) - Apply OpenAI/Codex brand colors and typography to artifacts.
 - [agent-deep-links/](./agent-deep-links/) - Build and validate deep links for Codex, Cursor, and VS Code with Slack-safe formatting and fallback guidance.
